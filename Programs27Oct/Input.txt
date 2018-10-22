@@ -1,0 +1,4 @@
+Name            Roll     Midsem   FinalSem   
+Zarski           12        75        82
+Herbrand         14        68        75
+Henkin           16        60        75
